@@ -65,15 +65,15 @@ main {
 }
 
 .thumb.img1 {
-    background-image: url(/img/flow01.png);
+    background-image: url(./img/flow01.png);
 }
 
 .thumb.img2 {
-    background-image: url(/img/flow02.png);
+    background-image: url(./img/flow02.png);
 }
 
 .thumb.img3 {
-    background-image: url(/img/flow03.png);
+    background-image: url(./img/flow03.png);
 }
 
 .title {
